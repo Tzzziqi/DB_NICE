@@ -1,0 +1,17 @@
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (8, 1, 'The theatre offers enchanting symphony and piano performances', 'Theaters', 'Royal Theater', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (10, 2, 'This theater shows different popular and acclaimed movies every day, as well as some classic movies', 'Theaters', 'Movie Theater', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (7, 3, 'Provide you with a variety of entertainment (Note: for adult age over 21)', 'Casino', 'Dynasty Casino', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (3, 4, 'Providing you with a comfortable reading experience', 'Library', 'Jason Library', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (4, 5, 'A very interesting library, offering a variety of sailing books and scenic diaries from various places', 'Library', 'Nautical Library', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (3, 6, 'A safe and fun children\'s playground. (Note: Children under 5 years old must be accompanied by a guardian)', 'Children play', 'Children\'s Park', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (5, 7, 'Basketball / squash / badminton courts available', 'Gym', 'Gym', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (11, 8, '', 'Outdoor pool', 'Outdoor pool', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (9, 9, '', 'Indoor pool', 'Indoor pool', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (11, 10, 'Accommodates 3-4 people', 'Whirlpool', 'Whirlpool', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (9, 11, 'Can accommodate 5-6 people', 'Whirlpool', 'Whirlpool', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (9, 12, 'Enjoy your trip in this premium steam room', 'Steam room', 'Steam room', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (9, 13, 'Enjoy your trip in this premium sona room', 'Sona room', 'Sona room', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (5, 14, 'Enjoy the philosophy of yoga in this spacious Zen room', 'Yoga room', 'Zen room', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (8, 15, 'Note: for adult age over 21', 'Night Club', 'Night Club', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (11, 16, 'Note: for adult age over 21', 'Night Club', 'Night Club', 'ACTIVE');
+INSERT INTO entertainment (floor, entertainment_id, description, entertainment_type, name, status) VALUES (11, 17, '2 standard indoor tennis courts, with automatic tennis ball machines and shower rooms', 'Tennis court', 'Tennis court', 'ACTIVE');

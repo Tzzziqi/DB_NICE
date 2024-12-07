@@ -1,0 +1,9 @@
+INSERT INTO restaurant (floor, restaurant_id, description, name, restaurant_type, serving_time, status) VALUES (6, 1, 'serves Breakfast, Dinner, Lunch', 'Common Buffett', 'Common Buffett', '7 AM to 9 PM', 'ACTIVE');
+INSERT INTO restaurant (floor, restaurant_id, description, name, restaurant_type, serving_time, status) VALUES (8, 2, 'serves Dinner only', 'Italian Specialty', 'Italian Specialty', '6 PM to 10 PM', 'ACTIVE');
+INSERT INTO restaurant (floor, restaurant_id, description, name, restaurant_type, serving_time, status) VALUES (7, 3, 'serves Dinners only', 'Mexican Specialty', 'Mexican Specialty', '6 PM to 10 PM', 'ACTIVE');
+INSERT INTO restaurant (floor, restaurant_id, description, name, restaurant_type, serving_time, status) VALUES (6, 4, 'serves Lunch and Dinner', 'La-carte continental', 'La-carte continental', '12 PM to 8 PM', 'ACTIVE');
+INSERT INTO restaurant (floor, restaurant_id, description, name, restaurant_type, serving_time, status) VALUES (5, 5, 'serves Lunch and Dinner', 'Tokyo Ramen Japanese', 'Tokyo Ramen Japanese', '12 PM to 8 PM', 'ACTIVE');
+INSERT INTO restaurant (floor, restaurant_id, description, name, restaurant_type, serving_time, status) VALUES (5, 6, 'serves Lunch and Dinner', 'Ming Wok Chinese', 'Ming Wok Chinese', '12 PM to 8 PM', 'ACTIVE');
+INSERT INTO restaurant (floor, restaurant_id, description, name, restaurant_type, serving_time, status) VALUES (10, 7, 'serves beverages and light food', 'Round Clock Café', 'Round Clock Café', '24 hours', 'ACTIVE');
+INSERT INTO restaurant (floor, restaurant_id, description, name, restaurant_type, serving_time, status) VALUES (10, 8, 'serves alcoholic beverages', 'Pool Bar', 'Pool Bar', '10 AM to 10 PM', 'ACTIVE');
+INSERT INTO restaurant (floor, restaurant_id, description, name, restaurant_type, serving_time, status) VALUES (7, 9, 'serves alcoholic beverages', 'Stout Bar', 'Stout Bar', '10 AM to 10 PM', 'ACTIVE');
